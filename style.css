@@ -10,7 +10,7 @@ body{
     background-color: #94D9EA;
 }
 .main-content{
-    min-height: 100vh;
+    min-height: 300vh;
     width: 80%;
     margin: 2rem auto;
     display: grid;
@@ -18,13 +18,13 @@ body{
 }
 .left-section{
     grid-column: span 2;
-    height: 200vh;
+    height: 280vh;
     background-color: #00324A;
     box-shadow: #002333;
 }
 .right-section{
     grid-column: span 5;
-    height: 200vh;
+    height: 280vh;
     background-color: #f7f7f7;
 }
 .left-content{
